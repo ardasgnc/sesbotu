@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [],
+        "ACTIVITY_TEXT": "'Poseidon 💙 Herkales",
+        "GUILD_ID": "774589658415759381",
+        "VOICE_CHANNEL": "797138119027195925",
+        "MIN_STAFF_ROLE": "797137957018140672"
+    },
+    "FILES": {
+        "WELCOME": "ses/welcome.mp3",
+        "STAFF": "ses/yetkiliodaya.mp3"
+    },
+    "TOKEN": "Nzk3MTQ1MjkzOTk2MDMyMDAw.X_iNaA.TU4-8Pv67EMU1JIsZ5XsG3VXZdU"
+}
